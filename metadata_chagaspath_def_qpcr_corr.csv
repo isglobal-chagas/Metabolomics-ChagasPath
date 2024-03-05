@@ -1,0 +1,72 @@
+Sample;group;group_2;time;Origin;Weight_kg;comorb;DOB;sex;Age;qPCR;part
+A1_2924;A;Chagas;pre;Bolivia;67;n;24620;m;56;Neg;2924
+A1_2940;A;Chagas;pre;Bolivia;51;n;30316;f;41;Neg;2940
+A1_2884;A;Chagas;pre;Bolivia;52.5;y;26880;f;50;Neg;2884
+A1_2952;A;Chagas;pre;Bolivia;55;n;31569;f;37;Neg;2952
+A1_2958;A;Chagas;pre;Bolivia;79.5;n;26564;f;51;Pos ;2958
+A1_2922;A;Chagas;pre;Bolivia;75;n;24923;f;55;Pos ;2922
+A1_2968;A;Chagas;pre;Bolivia;84.5;n;24255;m;57;Pos ;2968
+S1_2970;S;Chagas;pre;Bolivia;NA;n;21575;f;64;Pos ;2970
+A1_2975;A;Chagas;pre;Bolivia;65;n;29118;m;44;Neg;2975
+A1_2959;A;Chagas;pre;Bolivia;70;n;36719;f;23;Neg;2959
+A1_2527;A;Chagas;pre;Bolivia;76.5;n;29408;f;43;Neg;2527
+A1_1820;A;Chagas;pre;Bolivia;88;n;31150;f;38;Neg;1820
+A1_2928;A;Chagas;pre;Bolivia;64;y;25659;f;53;Neg;2928
+A1_2990;A;Chagas;pre;Bolivia;72;y;29723;m;42;Pos ;2990
+A1_1162;A;Chagas;pre;Bolivia;76.5;n;28682;f;45;Neg;1162
+A1_2139;A;Chagas;pre;Bolivia;72;y;28999;f;44;Neg;2139
+A1_2901;A;Chagas;pre;Bolivia;61;n;27877;f;47;Pos ;2901
+A1_1617;A;Chagas;pre;Bolivia;75;n;27076;m;49;Neg;1617
+A1_2918;A;Chagas;pre;Honduras;58;n;29648;f;42;Neg;2918
+A1_2951;A;Chagas;pre;Bolivia;60;n;23121;f;60;Pos ;2951
+A1_2923;A;Chagas;pre;Bolivia;61;n;25765;f;53;Pos ;2923
+S2_2970;S;Chagas;post;Bolivia;82;y;21575;f;64;Neg;2970
+A2_2928;A;Chagas;post;Bolivia;62.5;n;25659;f;53;Neg;2928
+A2_2918;A;Chagas;post;Honduras;58;n;29648;f;42;Neg;2918
+A2_2924;A;Chagas;post;Bolivia;69;n;24620;m;56;Neg;2924
+A2_2975;A;Chagas;post;Bolivia;65;n;29118;m;44;Neg;2975
+A2_1820;A;Chagas;post;Bolivia;88;n;31150;f;38;Neg;1820
+A2_2968;A;Chagas;post;Bolivia;83.7;n;24255;m;57;Neg;2968
+A2_2922;A;Chagas;post;Bolivia;77;n;29671;f;42;Neg;2922
+A2_2527;A;Chagas;post;Bolivia;76;n;29743;f;42;Neg;2527
+A2_2923;A;Chagas;post;Bolivia;60;y;25765;f;53;Neg;2923
+A2_2990;A;Chagas;post;Bolivia;73;n;29723;m;42;Neg;2990
+A2_2958;A;Chagas;post;Bolivia;77.5;n;22911;f;61;Neg;2958
+A2_2901;A;Chagas;post;Bolivia;59.5;n;27877;f;47;Neg;2901
+A2_2959;A;Chagas;post;Bolivia;69.5;n;36719;f;23;Neg;2959
+A2_2940;A;Chagas;post;Bolivia;71.5;n;29952;f;41;Neg;2940
+A2_1617;A;Chagas;post;Bolivia;76;n;27076;m;49;Neg;1617
+A2_2951;A;Chagas;post;Bolivia;59.9;n;23121;f;60;Neg;2951
+A2_2884;A;Chagas;post;Bolivia;52;y;26880;f;50;Neg;2884
+A2_2952;A;Chagas;post;Bolivia;51.5;n;31569;f;37;Neg;2952
+A2_2139;A;Chagas;post;Bolivia;66;n;28999;f;44;Neg;2139
+A2_1162;A;Chagas;post;Bolivia;78;n;28682;f;45;Neg;1162
+S1_1368;S;Chagas;pre;Bolivia;75;n;23050;f;60;Neg;1368
+S1_2913;S;Chagas;pre;Bolivia;63.5;n;30637;m;40;Neg;2913
+S1_2955;S;Chagas;pre;Bolivia;64;n;26472;f;51;Pos ;2955
+S1_2919;S;Chagas;pre;Bolivia;88;n;25717;f;53;Neg;2919
+S1_2961;S;Chagas;pre;Bolivia;70;n;24959;f;55;Neg;2961
+S1_3001;S;Chagas;pre;Bolivia;67;n;23056;f;60;Neg;3001
+S1_2476;S;Chagas;pre;Brasil;65;y;23675;f;59;Neg;2476
+S2_1368;S;Chagas;post;Bolivia;77;n;23050;f;60;Neg;1368
+S2_2913;S;Chagas;post;Bolivia;60.5;y;30637;m;40;Neg;2913
+S2_2476;S;Chagas;post;Brasil;66.5;y;23675;f;59;Neg;2476
+S2_2919;S;Chagas;post;Bolivia;87;y;25717;f;53;Neg;2919
+S2_3001;S;Chagas;post;Bolivia;63;n;23056;f;60;Neg;3001
+S2_2955;S;Chagas;post;Bolivia;65.5;n;26472;f;51;Pos;2955
+S2_2961;S;Chagas;post;Bolivia;67.5;n;22402;f;62;Neg;2961
+C1_2941;C;Control;cont;Bolivia;50;n;30065;f;41;cont;2941
+C1_2948;C;Control;cont;Bolivia;64;n;28186;f;46;cont;2948
+C1_2956;C;Control;cont;Bolivia;71;n;25600;f;53;cont;2956
+C1_2963;C;Control;cont;Bolivia;51.5;n;36099;f;25;cont;2963
+C1_2967;C;Control;cont;Bolivia;NA;n;33852;f;31;cont;2967
+C1_2984;C;Control;cont;Bolivia;78;n;31402;m;38;cont;2984
+C1_2986;C;Control;cont;Honduras;47.5;n;32936;f;33;cont;2986
+C1_2988;C;Control;cont;Bolivia;82.5;n;28037;m;47;cont;2988
+C1_2996;C;Control;cont;Paraguay;77;n;35961;f;25;cont;2996
+C1_2999;C;Control;cont;Bolivia;70;n;29209;f;44;cont;2999
+C1_3002;C;Control;cont;Bolivia;64;n;30881;m;39;cont;3002
+C1_3011;C;Control;cont;Bolivia;NA;n;32055;m;36;cont;3011
+C1_3021;C;Control;cont;Bolivia;NA;n;35359;m;27;cont;3021
+C1_3028;C;Control;cont;Honduras;75;n;27980;m;47;cont;3028
+C1_3027;C;Control;cont;Honduras;53;y;27104;f;49;cont;3027
